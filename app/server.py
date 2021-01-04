@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1-048ZJ7RHVVnBKKO_OP48yCu7P-8JTOL/view?usp=sharing'
+export_file_url = 'https://drive.google.com/file/d/1-048ZJ7RHVVnBKKO_OP48yCu7P-8JTOL'
 export_file_name = 'export.pkl'
 
 classes = ['swift', 'wagonr']
